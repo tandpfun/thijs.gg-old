@@ -12,7 +12,7 @@
             ><font-awesome-icon :icon="['fab', 'discord']"
           /></a>
           <a
-            href="https://twitter.com/cdngdev"
+            href="https://twitter.com/thijs"
             target="_blank"
             class="hover:opacity-80 transition"
             ><font-awesome-icon :icon="['fab', 'twitter']"

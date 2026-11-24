@@ -14,11 +14,11 @@
         <font-awesome-icon :icon="['fab', 'discord']" /> @Coding#0001
       </a>
       <a
-        href="https://twitter.com/cdngdev"
+        href="https://twitter.com/thijs"
         target="_blank"
         class="bg-blue-500 bg-opacity-30 flex-1 md:ml-4 mt-6 px-8 py-4 rounded-md hover:scale-105 transform ease-in-out duration-300"
       >
-        <font-awesome-icon :icon="['fab', 'twitter']" /> @cdngdev
+        <font-awesome-icon :icon="['fab', 'twitter']" /> @thijs
       </a>
     </div>
     <div class="flex flex-col md:flex-row justify-center">
